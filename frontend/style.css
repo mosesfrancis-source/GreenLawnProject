@@ -1,0 +1,9 @@
+/* Minimal styles for Green Lawn site */
+body { font-family: Arial, sans-serif; margin:0; padding:0; color:#222; }
+header { background:#0b7a3f; color:#fff; padding:12px 16px; }
+header nav a { color:#fff; margin-right:8px; text-decoration:none; }
+main { padding:16px; }
+.container { max-width:900px; margin:0 auto; }
+table { width:100%; border-collapse:collapse; }
+table th, table td { border:1px solid #ddd; padding:8px; text-align:left; }
+form { margin:8px 0; }
